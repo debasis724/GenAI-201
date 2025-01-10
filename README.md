@@ -6,7 +6,7 @@
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/debasis724/Retail-Insights-Generator.git
+  git clone https://github.com/debasis724/GenAI-201.git
 ```
 
 2.Navigate to the project directory:
